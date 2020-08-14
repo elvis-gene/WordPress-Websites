@@ -1,5 +1,5 @@
 # WordPress-Websites
-Here you will find the list of all the WordPress websites I have built for myself and clients.
+Here you will find the list of all the WordPress websites I have built.
 
 ## [mmstealengineering.co.za](http://mmsteelengineering.co.za/)
 Website built for a construction company.
